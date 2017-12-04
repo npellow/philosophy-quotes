@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Romanesco|Vollkorn+SC');
+
 .container {
     margin-top: 5%;
     margin-bottom: 3%;   
@@ -6,4 +8,24 @@
 #navi {
     border-bottom: 2px solid #000;
     background-color: #fff;
+}
+
+#philName {
+    margin-top: 2%;
+    text-align: center;
+    font-family: 'Vollkorn SC', serif;
+    font-size: 25px;
+}
+
+#mainContent {
+    font-family: 'Romanesco', cursive;
+    font-size: 35px;
+    margin-top: 2%;
+    text-align: center;
+}
+
+#clicker {
+    font-family: 'Vollkorn SC', serif;
+    font-size: 15px;
+    text-align: center;
 }
